@@ -1,2 +1,2 @@
-# Sample2.5D
-Sample2.5D project
+# 2.5DSample
+2.5DSample project
