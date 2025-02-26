@@ -71,3 +71,12 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+
+#Exclude Asset package
+/[Aa]ssets/POLYGON city pack/*
+/[Aa]ssets/POLYGON city pack.meta
+/[Aa]ssets/Low poly city vehicle pack/*
+/[Aa]ssets/Low poly city vehicle pack.meta
+
+/[Aa]ssets/2.5DSample
+/[Aa]ssets/Pixel Adventure 1
