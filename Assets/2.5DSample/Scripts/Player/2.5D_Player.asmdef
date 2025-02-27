@@ -1,0 +1,16 @@
+{
+    "name": "2.5D_Player",
+    "rootNamespace": "",
+    "references": [
+        "GUID:76ca086704e096449a11ec34d13add5e"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

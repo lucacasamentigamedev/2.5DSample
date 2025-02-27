@@ -73,5 +73,4 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 
 #Exclude Asset package
-/[Aa]ssets/2.5DSample
 /[Aa]ssets/Pixel Adventure 1
